@@ -11,7 +11,7 @@ Linux:
 sudo apt-get install nmap
 ```
 
-Windows: 
+Windows:   
 Download from Nmap's official website: https://nmap.org/download.html 
 
 A restart may be required on Windows. 
